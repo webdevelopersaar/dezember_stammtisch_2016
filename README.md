@@ -23,10 +23,16 @@ Vorstellung HostPress
 
 **Diskussionen**
  
-* 
-* 
+* Feedback zu HostPress
+* in WP-Content-Ordner keine PHP-Ausführung erlauben
+* JavaScript als Programmiersprache
+* Stabilität von JS-Bibliotheken
+* MySql vs. MariaDB
+* Percona
 
 ## buzzwords und links
+
+[WordCamp Europe 2017 in Paris](https://2017.europe.wordcamp.org/)
 
 **Weblinks**
 
@@ -39,6 +45,9 @@ Vorstellung HostPress
 * [Terminkalender IT-Treffen Saarland](http://kkrieger.de/termine)
 * [HostPress](https://www.hostpress.de/)
 * [Patchman](http://patchman.co/)
+* [Loader.io](http://loader.io/)
+* [blitz.io](https://www.blitz.io/)
+* [Runcommand.io](https://runcommand.io/)
 * []()
 
 ## Mögliche Themen für die Zukunft
