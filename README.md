@@ -29,6 +29,9 @@ Vorstellung HostPress
 * Stabilität von JS-Bibliotheken
 * MySql vs. MariaDB
 * Percona
+* Vor-/Nachteile OpenSoure vs. Eigenentwicklung 
+* Vorstellung CoderDojo Saar
+
 
 ## buzzwords und links
 
@@ -48,6 +51,7 @@ Vorstellung HostPress
 * [Loader.io](http://loader.io/)
 * [blitz.io](https://www.blitz.io/)
 * [Runcommand.io](https://runcommand.io/)
+* [PHP PSR Standard](http://www.php-fig.org/psr/)
 * []()
 
 ## Mögliche Themen für die Zukunft
