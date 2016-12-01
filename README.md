@@ -6,7 +6,7 @@
 
 ## namen
 
-Marcus, Christian, Achim, Ralf, Chinthu, Kevin, Waseem, Kim, Lukas, Andreas, Peter
+Markus, Christian, Achim, Ralf, Chinthu, Kevin, Waseem, Kim, Lukas, Andreas, Peter
 
 ## themen
 
